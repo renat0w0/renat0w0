@@ -12,9 +12,10 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=02E5F7&center=true&vCenter=true&random=false&width=440&height=45&lines=Hello!+%F0%9F%91%8B%F0%9F%8F%BB+I'm+renat0w0+;I+love+technology+%F0%9F%A9%B5;Always+learning+new+things+%F0%9F%93%96" alt="Typing SVG" /></a>
 </p>
-  
-# 🖥️ Tecnologias e Ferramentas
-<div align="left">
+
+ <h1 align="center">🖥️ Tecnologias e Ferramentas</h1> 
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="C"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40" alt="rust"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java"  />
@@ -28,7 +29,7 @@
 <div display="inline-block">
  <p align="left">🩵 Faço parte da <a href="https://github.com/NextDiv/">NextDiv</a>;</p>
  <p align="left">📚 Tenho estudado Assembly e iniciei meus estudos sobre <a href="https://www.nand2tetris.org/">Como os computadores funcionam</a>;</p>
- <p align="left">🌱 Adoro tecnologia, especialmente ciência da computação, cloud computing, engenharia de software;</p>
+ <p align="left">🌱 Adoro tecnologia, especialmente ciência da computação, cloud computing, engenharia da computação;</p>
 </div>
 
 #
