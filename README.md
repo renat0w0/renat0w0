@@ -30,21 +30,3 @@
  <p align="left">📚 Tenho estudado Assembly e iniciei meus estudos sobre <a href="https://www.nand2tetris.org/">Como os computadores funcionam</a>;</p>
  <p align="left">🌱 Adoro tecnologia, especialmente ciência da computação, cloud computing, engenharia da computação;</p>
 </div>
-
-#
-
-<h3 align="left">🔥  Meus Status :</h3>
-
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=renat0w0&theme=react&hide_border=false&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=500&background=-80%2C1D1D1D%2C272727&fire=EA8903" alt="GitHub Streak" /></a>
-</div>
-
-#
-
-<div align="center">
-  
-![Snake animation](https://github.com/renat0w0/renat0w0/blob/output/github-contribution-grid-snake.svg)
-</div>
-
